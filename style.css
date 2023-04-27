@@ -58,7 +58,7 @@
 
   :root {
     --padding: 20px;
-    --padding-sm: 10px;
+    --padding-sm: 20px;
 
 /* ### Primary */
 --Very-Dark-Blue: hsl(243, 87%, 12%);
