@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 
-<a href="https://heisemmaco.github.io/fylo-landing-page-with-two-column-layout-master/">Live Site</a>
+<a href="https://heisemmaco-dev.github.io/fylo-landing-page-with-two-column-layout-master/">Live Site</a>
 
 ### Built with
 
